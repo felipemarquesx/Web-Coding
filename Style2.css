@@ -1,0 +1,63 @@
+body {
+    min-height: 100vh;
+    background: url(Img/vishwas-katti-UrQ_BS9bLXQ-unsplash\ \(1\).jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+main {
+    max-width: 800px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding-top: 0px;
+    min-height: 960px;
+    margin-left: 0;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-left: 30px;
+    color: white;
+    font-family: 'Cinzel', serif;
+    font-size: 85px;
+    text-shadow: 2px 2px 4px #948787
+    t;
+}
+
+.btn{margin-left: 20px;
+      font-family: 'Cinzel', serif;
+    color: rgb(135, 177, 52);
+    background-color: black;
+    border-radius: 20px;
+     }    
+
+.botons a{
+        margin-right: 0px;
+        margin-left: 30px;
+        font-family: 'Cinzel', serif;
+        color: rgb(135, 177, 52);}
+
+
+.video{width: 300px;
+       height: 150px;}
+       
+ footer {font-family: 'Playfair Display', serif;
+      background: linear-gradient(135deg, #1c3b2d 0%, #3d5a40 35%, #a47148 70%, #f4a261 100%);;
+      color: white;
+      text-align: center;
+      padding: 60px 10px;
+      width: 100%;
+    }
+
+.separador{background-color: black;
+           padding: 5px 15px;
+           width: 100%;}    
+
+.contatos{color: #1c3b2d;
+          text-decoration: none;}        
+
+.nome{font-family: 'Cinzel', serif;
+      color: white;
+      text-align: center;
+      font-size: 20px;}          
+
