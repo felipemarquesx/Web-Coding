@@ -1,50 +1,51 @@
-    body
-        {
-        min-height:  100vh;
-        background: url(Img/pexels-marta-nogueira-589022975-17511959\ \(1\).jpg) no-repeat center;
-        background-size: cover;}
-
-    h1{
-        color: white;
-        text-align: center;
-        font-family: 'Cinzel', serif;
-        font-size: 40px;
-        text-shadow: 2px 2px 4px #665f5f;
-        margin-top : 200px;
-        margin-bottom: 0%;}
-    
-    h2{color: rgb(38, 17, 17);
-        text-align: center;
-        font-family: 'Cinzel', serif;
-        font-size: 23px;margin-top: 0;
-         margin-top: 40px;}
-    
-    
-    .cardapio-container {
-    background: rgba(255,255,255,0.95);
-    border-radius: 18px;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.18);
-    max-width: 700px;
-    margin: 40px auto 40px auto;
-    padding: 32px 32px 24px 32px;
+body {
+  background: url(Img/UI.jpg) center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
+.navegacao {
+  display: flex;
+  gap: 1629px;
+  margin-top: 15px;
 }
-@media (max-width: 1440px) and (max-height: 900px) {
-    .cardapio-container {
-        max-width: 600px;    /* ou ajuste conforme preferir */
-        width: 95%;
-        padding: 24px 10px 20px 10px;
-    }
-    h1 {
-        margin-top: 170px;   /* ajuste para caber melhor na tela */
-        font-size: 32px;
-    }
+
+h1 {
+  font-size: 90px;
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  color: white;
+  text-shadow: 30px white;
+}
+
+h2 {
+  margin-top: 73px;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  color: rgb(249, 247, 244);
+  text-shadow: 30px white;
+}
+
+p {
+  margin-top: 50px;
+
+  font-family: "Cinzel", serif;
+  color: rgb(249, 247, 244);
+  text-shadow: 30px white;
+}
+
+.container-text-white {
+  background-color: #294734;
+  text-shadow: 2px 2px 4px #000000;
+  width: 700px;
+  height: 600px;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
