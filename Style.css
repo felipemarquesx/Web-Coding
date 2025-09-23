@@ -5,9 +5,26 @@ body {
 }
 
 .navegacao {
+  background-color: #51715d00;
+  height: 40px;
   display: flex;
-  gap: 1629px;
-  margin-top: 15px;
+  justify-content: space-between;
+  border-radius: 0px 0px 20px 20px;
+  height: 50px;
+}
+.navegacao a {
+  margin-top: 5px;
+  color: rgb(9, 1, 1);
+  text-decoration: none;
+  font-family: "Cinzel", serif;
+  text-shadow: 2px 2px 4px #858282;
+  font-size: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.voltar {
+  width: 30px;
+  height: 30px;
 }
 
 h1 {
