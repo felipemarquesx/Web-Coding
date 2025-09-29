@@ -14,4 +14,4 @@ Website estático para um restaurante fictício, apresentando múltiplos cardáp
 
 ## 🖥️ Como Visualizar
 
-Para rodar o projeto, basta clonar este repositório e abrir o arquivo `pagina_inicial.html` em seu navegador de preferência.
+Para rodar o projeto, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador de preferência.
