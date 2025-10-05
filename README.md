@@ -1,6 +1,6 @@
 # Web-Coding --> PROJETO DA FACULDADE
 
-Projeto de site com menus, imagens e estilos em HTML e CSS.
+Projeto de site para um restaurante ficticio com menus, imagens e estilos em HTML e CSS.
 
 # The Cactos Restaurant
 
