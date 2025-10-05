@@ -1,7 +1,7 @@
 /* Cabeçalho */
 body {
   min-height: 100vh;
-  background: url(Img/Sem\ título.png) no-repeat center;
+  background: url(../Img/Sem\ título.png) no-repeat center;
   background-size: cover;
   width: 100%;
   display: flex;
