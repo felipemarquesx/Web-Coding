@@ -15,4 +15,5 @@ Website estático para um restaurante fictício, apresentando múltiplos cardáp
 ## 🖥️ Como Visualizar
 Opção 1: Acesse o link do site hospedado no GitHub Pages pelo seu computaor : https://felipemarquesx.github.io/Web-Coding/index.html
 Opção 2: Para rodar o projeto, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador de preferência.
+
 (📱Responsividade para dispositivos móveis em desenvolvimento)
